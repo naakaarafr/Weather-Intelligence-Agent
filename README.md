@@ -20,8 +20,8 @@ A comprehensive weather analysis and forecasting system built with CrewAI 🤖 a
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/naakaarafr/weather-intelligence-system.git
-cd weather-intelligence-system
+git clone https://github.com/naakaarafr/Weather-Intelligence-Agent.git
+cd Weather-Intelligence-Agent
 ```
 
 ### Create a Virtual Environment:
